@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "Source Sans Pro", sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap");
+}
+* {
+  font-family: "Source Sans Pro", sans-serif;
+}
+.nav {
+  display: flex;
+  position: relative;
+  margin-left: 160px;
+  justify-content: space-evenly;
+  margin-right: 160px;
+}
+.logo {
+  margin-top: 15px;
+  height: 40px;
+}
+.store {
+  margin-left: -20px;
+}
+.nav1 {
+  margin-top: 15px;
+}
+.nav2 {
+  margin-top: 15px;
+}
+.colour {
+  background-color: #38383a;
+  margin-top: -10px;
+  margin-left: -10px;
+  margin-right: -10px;
+  color: #fff;
+}
+
+.store:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.mac:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.ipad:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.iphone:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.watch:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.airpods:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.tv:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.apple:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.access:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.support:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.nav1:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.nav2:hover {
+  color: orangered;
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.iphone1 {
+  margin-left: 650px;
+  font-size: 50px;
+  margin-top: 50px;
+}
+.big {
+  margin-left: 680px;
+  font-size: 25px;
+  margin-top: -20px;
+}
+.learn {
+  margin-left: 660px;
+  border: none;
+  color: blueviolet;
+  background-color: white;
+  font-size: 20px;
+  margin-top: -10px;
+}
+.buy {
+  margin-left: 10px;
+  border: none;
+  color: blueviolet;
+  background-color: white;
+  font-size: 20px;
+  margin-top: -10px;
+}
+.image2 {
+  margin-left: 470px;
+  margin-top: 0px;
+  background-color: none;
+  border: none;
+}
